@@ -1,13 +1,12 @@
-Welcome to Lumache's documentation!
-===================================
+==========================================
+Welcome to the OMERO Importer Python tool!
+==========================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+The **OMERO Importer Python** tool was built by Alex Rigano in the Strambio-De-Castillia laboratory UMass Chan Medical School.
+It automatically adds metadata annotations to bioimage data and imports data and metadata to OMERO.
 
 Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+how to perform the :ref:`installation` of the tool.
 
 .. note::
 
