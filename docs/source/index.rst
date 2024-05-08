@@ -1,6 +1,7 @@
 ==========================================
 Welcome to the OMERO Importer Python tool!
 ==========================================
+This page hosts the documentation for the OMERO Importer Python tool |version|.
 
 The **OMERO Importer Python** tool was built by Alex Rigano in the Strambio-De-Castillia laboratory UMass Chan Medical School.
 It automatically adds metadata annotations to bioimage data and imports data and metadata to OMERO.
