@@ -41,7 +41,7 @@ When you are ready to import your first images to OMERO
    .. rst-class:: image-no-text-wrap
 
    .. image:: figures/README_new_Project_Dataset_Spreadsheet_padding.png
-      :width: 350px
+      :width: 450px
       :align: left
 
     
