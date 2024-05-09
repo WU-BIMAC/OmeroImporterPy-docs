@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'OMERO Importer'
+copyright = '2024, Alessandro Rigano, Caterina Strambio De Castillia'
+author = 'Alessandro Rigano, Caterina Strambio De Castillia'
 
 release = '0.1'
 version = '0.1.0'
