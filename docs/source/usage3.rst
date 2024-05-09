@@ -17,3 +17,6 @@ OMERO Importer Excel Helper
 .. Tip::
 
    In the directory structure above, Image-file01 would be assigned Tag01 and Tag011, and Image-file11 would be assigned Tag02, respectively. 
+
+24.	In the ``IMAGE LEVEL KEY-VALUE PAIRS`` columns, starting at Column E, fill in relevant metadata (leave the ones you do not need empty).
+25.	Save the file.
