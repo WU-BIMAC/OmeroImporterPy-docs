@@ -1,5 +1,5 @@
-OMERO Importer Excel Helper Python tool
-=======================================
+OMERO Importer Excel Helper
+===========================
 
 19.	Launch the ``Project-Name_Dataset-Name.xlsm`` file created `here <>`_.
 20.	Open the ``Image-List`` tab.
