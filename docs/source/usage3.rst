@@ -1,9 +1,9 @@
 OMERO Importer Excel Helper
 ===========================
 
-19.	Launch the ``Project-Name_Dataset-Name.xlsm`` file created `here <https://omeroimporterpy-docs.readthedocs.io/en/latest/usage.html>`_ and filled-in `here <https://omeroimporterpy-docs.readthedocs.io/en/latest/usage2.html>`_
+19.	Launch the ``Project-Name_Dataset-Name.xlsm`` file created in :doc:`usage` and filled in :doc:`usage2`.
 20.	Open the ``Image-List`` tab.
-21.	 Check that B9 contains the correct “Dataset-Name”.
+21.	Check that B9 contains the correct *“Dataset-Name”*.
 22.	In cell B10, enter all the extensions of all Image data files you want to import to OMERO. Separate each extension with a comma as follows:
 
 	``ext1, ext2, …, extN``
