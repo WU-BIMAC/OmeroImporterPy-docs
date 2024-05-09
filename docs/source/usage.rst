@@ -28,9 +28,8 @@ When you are ready to import your first images to OMERO
 5. In the ``User_Name_OMERO`` folder, create the following folder structure:
  
    .. image:: figures/README_new_Project_Dataset.png
-       :width: 200px
-       :align: left
-       :alt: alternate text
+      :width: 200px
+      :align: left
 
 .. note::
 
@@ -40,19 +39,16 @@ When you are ready to import your first images to OMERO
 6. Move the ``Project-Name_Dataset-Name.xlsm`` spreadsheet you filled in above to the “Project-Name” folder as follows:
 
    .. image:: figures/README_new_Project_Dataset_Spreadsheet.png
-       :width: 350px
-       :align: left
-       :alt: alternate text
+      :width: 350px
+      :align: left
 
 
 7. During image acquisition, save image files in a nested subdirectory structure in the corresponding Dataset folder as follows:
 
 
    .. figure:: figures/README_new_Folder_structure_Tags.png
-       :width: 425px
-       :align: left
-       :class: shadow-image
-       :alt: alternate text
+      :width: 425px
+      :align: left
 
 .. tip::
 
