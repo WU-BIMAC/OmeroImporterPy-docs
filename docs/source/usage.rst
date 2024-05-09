@@ -21,4 +21,9 @@ During the execution of an experiment
 
 In preparation for Image data OMERO import
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-4. On the folder you will use as the source for OMERO import, create a subfolder called ``User_Name_OMERO`` where “User_Name” is your OMERO username. 
+4. On the folder you will use as the source for OMERO import, create a subfolder called ``User_Name_OMERO`` where “User_Name” is your OMERO username.
+
+When you are ready to import your first images to OMERO
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+5. In the ``User_Name_OMERO`` folder, create the following folder structure:
+
