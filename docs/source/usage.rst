@@ -36,7 +36,7 @@ When you are ready to import your first images to OMERO
    * \* Use a unique name or identifier for the *“Project-Name”* folder and the same name used for the ``Project_Name`` field in the ``Project-Name_Dataset-Name.xlsm`` spreadsheet.
    * ** Use a unique name or identifier for the *“Dataset-Name”* folder and use the same name for the ``Dataset_Name`` field in the ``Project-Name_Dataset-Name.xlsm`` spreadsheet.
 
-6. Move the ``Project-Name_Dataset-Name.xlsm`` spreadsheet you filled in above to the “Project-Name” folder as follows:
+6. Move the ``Project-Name_Dataset-Name.xlsm`` spreadsheet you filled in above to the *“Project-Name”* folder as follows:
 
    .. rst-class:: image-no-text-wrap
 
