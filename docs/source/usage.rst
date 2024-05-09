@@ -1,5 +1,5 @@
-OMERO Importer Python Tool
-==========================
+OMERO Importer
+==============
 This section explains how to organize your Image files on the Image Acquisition workstation or in a connected `Networked File System <https://en.wikipedia.org/wiki/Network_File_System>`_ (NFS) drive to prepare for automated metadata annotation and `OMERO <https://www.openmicroscopy.org/omero/scientists/>`_ import using the `OMERO Importer Python <https://github.com/WU-BIMAC/W-IDM_OmeroImporterPy>`_ tool.
 
 Use Case 2: Presence of subdirectories in the Dataset folder
