@@ -20,4 +20,5 @@ Contents
 
    intro
    usage
+   usage2
    installation
