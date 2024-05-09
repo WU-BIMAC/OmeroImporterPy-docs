@@ -2,7 +2,7 @@
 Welcome to the OMERO metadata annotation and image import tool set!
 ===================================================================
 .. image:: figures/OMEROImporterPython_Flow-Chart.png
-   :width: 350px
+   :width: 450px
    :align: left
 
 This page hosts the documentation for:
@@ -14,9 +14,9 @@ This page hosts the documentation for:
 The **OMERO Importer Python** tool was built by Alex Rigano in the Strambio-De-Castillia laboratory UMass Chan Medical School.
 It automatically adds metadata annotations to bioimage data and imports Images and metadata to OMERO.
 
-The :doc:`usage` **reads metadata** that has been entered into a :doc:`usage2` with the help of the :doc:`usage3` and uses to annotate images it imports into OMERO.
+The :doc:`usage` **reads metadata** that has been entered into a :doc:`usage2` with the help of the :doc:`usage3` and is used to annotate images it imports into OMERO.
 
-If you want to use these tools check out the :doc:`installation` section.
+If you want to use these tools, check out the :doc:`installation` section.
 
 .. note::
 
