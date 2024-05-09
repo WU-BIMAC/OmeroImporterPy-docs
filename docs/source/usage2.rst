@@ -41,7 +41,7 @@ Dataset TAB
 
 Image-List TAB
 --------------
-17.	In the “IMAGE LEVEL KEY-VALUE PAIRS” columns, starting at Column E, fill in relevant metadata (leave the ones you do not need empty).
+17.	In the ``IMAGE LEVEL KEY-VALUE PAIRS`` columns, starting at Column E, fill in relevant metadata (leave the ones you do not need empty).
 18.	Save the file.
 
 .. note::
