@@ -37,3 +37,28 @@ When you are ready to import your first images to OMERO
    1. \* Use a unique name or identifier for the “Project-Name” folder and the same name used for the ``Project_Name`` field in the ``Project-Name_Dataset-Name.xlsm`` spreadsheet.
    2. ** Use a unique name or identifier for the “Dataset-Name” folder and use the same name for the ``Dataset_Name`` field in the ``Project-Name_Dataset-Name.xlsm`` spreadsheet.
 
+6. Move the ``Project-Name_Dataset-Name.xlsm`` spreadsheet you filled in above to the “Project-Name” folder as follows:
+
+   .. image:: figures/README_new_Project_Dataset_Spreadsheet.png
+      :width: 350px
+      :align: left
+      :alt: alternate text
+
+7. During image acquisition, save image files in a nested subdirectory structure in the corresponding Dataset folder. 
+
+.. tip::
+
+  In the example below, Images are organized according to two experimental conditions and one treatment, whereas Condition01 will be captured as Tag01, Condition02 will be captured as Tag02, and Treatment011 will be captured as Tag011:
+
+   .. image:: figures/README_new_Folder_structure_Tags.png
+      :width: 425px
+      :align: left
+      :alt: alternate text
+ 
+8. Open the filled-in ``Project-Name_Dataset-Name.xlsm`` spreadsheet.
+9. Follow the instructions `here <>`_, which are also found in the three workbook tabs.
+10. Save the file.
+11. The `OMERO Importer Python <https://github.com/WU-BIMAC/W-IDM_OmeroImporterPy>`_ tool will run according to the specifications set by your OMERO administrator.
+12. When the import process is terminated, you will receive an email confirming that it was correctly executed or alerting you of eventual errors.
+
+
