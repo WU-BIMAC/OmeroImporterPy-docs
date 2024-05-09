@@ -28,7 +28,7 @@ When you are ready to import your first images to OMERO
 5. In the ``User_Name_OMERO`` folder, create the following folder structure:
  
    .. image:: figures/README_new_Project_Dataset.png
-      :width: 220px
+      :width: 230px
       :align: left
 
 .. note::
@@ -41,8 +41,8 @@ When you are ready to import your first images to OMERO
    .. rst-class:: image-no-text-wrap
 
    .. image:: figures/README_new_Project_Dataset_Spreadsheet_padding.png
-      :width: 600px
-      :align: left
+      :width: 620px
+      :align: center
 
     
 
@@ -50,7 +50,7 @@ When you are ready to import your first images to OMERO
 
 
    .. figure:: figures/README_new_Folder_structure_Tags.png
-      :width: 450px
+      :width: 500px
       :align: left
 
 .. tip::
