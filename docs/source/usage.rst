@@ -27,7 +27,7 @@ When you are ready to import your first images to OMERO
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 5. In the ``User_Name_OMERO`` folder, create the following folder structure:
 
-.. image:: stars.jpg
+.. image:: docs/source/figures/README_new_Project_Dataset.png
     :width: 200px
     :align: left
     :height: 100px
