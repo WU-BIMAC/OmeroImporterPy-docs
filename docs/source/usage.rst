@@ -26,9 +26,14 @@ In preparation for Image data OMERO import
 When you are ready to import your first images to OMERO
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 5. In the ``User_Name_OMERO`` folder, create the following folder structure:
+ 
+   .. image:: figures/README_new_Project_Dataset.png
+       :width: 200px
+       :align: left
+       :alt: alternate text
 
-.. image:: figures/README_new_Project_Dataset.png
-    :width: 200px
-    :align: left
-    :alt: alternate text
+.. note::
+
+   1. \* Use a unique name or identifier for the “Project-Name” folder and the same name used for the ``Project_Name`` field in the ``Project-Name_Dataset-Name.xlsm`` spreadsheet.
+   2. ** Use a unique name or identifier for the “Dataset-Name” folder and use the same name for the ``Dataset_Name`` field in the ``Project-Name_Dataset-Name.xlsm`` spreadsheet.
 
