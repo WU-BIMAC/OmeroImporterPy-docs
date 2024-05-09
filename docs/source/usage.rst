@@ -42,7 +42,7 @@ When you are ready to import your first images to OMERO
 
    .. image:: figures/README_new_Project_Dataset_Spreadsheet.png
       :width: 350px
-      :align: left
+      :align: center
 
     
 
