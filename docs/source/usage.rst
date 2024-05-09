@@ -29,7 +29,7 @@ When you are ready to import your first images to OMERO
  
    .. image:: figures/README_new_Project_Dataset.png
       :width: 200px
-      :align: center
+      :align: left
 
 .. note::
 
@@ -42,7 +42,8 @@ When you are ready to import your first images to OMERO
 
    .. image:: figures/README_new_Project_Dataset_Spreadsheet.png
       :width: 350px
-      :align: center
+      :align: left
+
     
 
 7. During image acquisition, save image files in a nested subdirectory structure in the corresponding Dataset folder as follows:
@@ -50,7 +51,7 @@ When you are ready to import your first images to OMERO
 
    .. figure:: figures/README_new_Folder_structure_Tags.png
       :width: 425px
-      :align: center
+      :align: left
 
 .. tip::
 
