@@ -10,7 +10,7 @@ This page hosts the documentation for:
 The **OMERO Importer Python** tool was built by Alex Rigano in the Strambio-De-Castillia laboratory UMass Chan Medical School.
 It automatically adds metadata annotations to bioimage data and imports Images and metadata to OMERO.
 
-The :doc:`usage` reads metadata that has been entered into a :doc:`usage2` with the help of the and :doc:`usage3`.
+The :doc:`usage` reads metadata that has been entered into a :doc:`usage2` with the help of the :doc:`usage3`.
 
 If you wnant to use these tools check out the :doc:`installation` section.
 
