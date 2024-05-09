@@ -43,13 +43,8 @@ When you are ready to import your first images to OMERO
        :width: 350px
        :align: left
        :class: shadow-image
-       :alt: alternate text
 
 7. During image acquisition, save image files in a nested subdirectory structure in the corresponding Dataset folder. 
-
-.. tip::
-
-  In the example below, Images are organized according to two experimental conditions and one treatment, whereas Condition01 will be captured as Tag01, Condition02 will be captured as Tag02, and Treatment011 will be captured as Tag011.
 
 
    .. figure:: figures/README_new_Folder_structure_Tags.png
@@ -58,6 +53,9 @@ When you are ready to import your first images to OMERO
        :class: shadow-image
        :alt: alternate text
 
+.. tip::
+
+  In the example above, Images are organized according to two experimental conditions and one treatment, whereas Condition01 will be captured as Tag01, Condition02 will be captured as Tag02, and Treatment011 will be captured as Tag011.
 
 8. Open the filled-in ``Project-Name_Dataset-Name.xlsm`` spreadsheet.
 9. Follow the instructions `here <>`_, which are also found in the three workbook tabs.
