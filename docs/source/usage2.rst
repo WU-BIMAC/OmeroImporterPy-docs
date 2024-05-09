@@ -1,4 +1,4 @@
-Filling in metadata annotation Excel spreadsheet
+Metadata annotation Excel spreadsheet
 ================================================
 This section explains how to fill in metadata values in customized metadata annotation Excel spreadsheets to prepare for automated metadata annotation and `OMERO <https://www.openmicroscopy.org/omero/scientists/>`_ import using the `OMERO Importer Python <https://github.com/WU-BIMAC/W-IDM_OmeroImporterPy>`_ tool.
 
