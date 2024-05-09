@@ -7,7 +7,7 @@ This page hosts the documentation for:
 2. `REMBI <https://doi.org/10.1038/s41592-021-01166-8>`_-compatible metadata annotation Excel spreadsheets
 3. `OMERO Importer Excel Helper Python <https://github.com/WU-BIMAC/W-IDM_OmeroImporterExcelHelperPy>`_ tool
 
-   .. image:: figures/OMERO Importer Python_Flow-Chart.png
+   .. image:: figures/OMEROImporterPython_Flow-Chart.png
       :width: 400px
       :align: left
 
