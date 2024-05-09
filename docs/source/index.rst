@@ -21,4 +21,5 @@ Contents
    intro
    usage
    usage2
+   usage3
    installation
