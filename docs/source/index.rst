@@ -12,7 +12,7 @@ It automatically adds metadata annotations to bioimage data and imports Images a
 
 The :doc:`usage` reads metadata that has been entered into a :doc:`usage2` with the help of the :doc:`usage3`.
 
-If you wnant to use these tools check out the :doc:`installation` section.
+If you want to use these tools check out the :doc:`installation` section.
 
 .. note::
 
