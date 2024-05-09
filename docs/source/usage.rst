@@ -28,7 +28,7 @@ When you are ready to import your first images to OMERO
 5. In the ``User_Name_OMERO`` folder, create the following folder structure:
  
    .. image:: figures/README_new_Project_Dataset.png
-      :width: 200px
+      :width: 220px
       :align: left
 
 .. note::
@@ -50,7 +50,7 @@ When you are ready to import your first images to OMERO
 
 
    .. figure:: figures/README_new_Folder_structure_Tags.png
-      :width: 425px
+      :width: 450px
       :align: left
 
 .. tip::
