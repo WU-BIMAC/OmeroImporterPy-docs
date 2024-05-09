@@ -8,7 +8,7 @@ This page hosts the documentation for:
 3. `OMERO Importer Excel Helper Python <https://github.com/WU-BIMAC/W-IDM_OmeroImporterExcelHelperPy>`_ tool
 
    .. image:: figures/OMEROImporterPython_Flow-Chart.png
-      :width: 400px
+      :width: 250px
       :align: left
 
 The **OMERO Importer Python** tool was built by Alex Rigano in the Strambio-De-Castillia laboratory UMass Chan Medical School.
