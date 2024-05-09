@@ -3,7 +3,7 @@ Introduction
 
 Research Data Management best practices
 ---------------------------------------
-It is considered a best practice in Research Data Management (RDM) to organize files within folders and sub-folders. For Image data files, at a minimum, think about a two-level structure, where level one reflects the name of the project and level two reflects the name of individual datasets, which could correspond to individual Image acquisition sessions. 
+It is considered a best practice in `Research Data Management (RDM) <https://rdmkit.elixir-europe.org/data_organisation#how-do-you-organise-files-in-a-folder-structure>` to organize files within folders and sub-folders. For Image data files, at a minimum, think about a two-level structure, where level one reflects the name of the project and level two reflects the name of individual datasets, which could correspond to individual Image acquisition sessions. 
 In addition, organizing your images in further nested subdirectories is often recommended. This allows you to distinguish different imaging experiment conditions (e.g., wild type vs. mutant, treatment01 vs. treatment02, condition01 vs. condition02, etc.) and subdivide Image files accordingly. 
 
 OMERO image data organization
