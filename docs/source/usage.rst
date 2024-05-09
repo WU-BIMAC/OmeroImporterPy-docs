@@ -1,6 +1,6 @@
 Usage
 =====
-This section explains how to organize your Image files on the image acquisition workstation or in a connected Networked File System (NFS) drive to prepare for automated metadata annotation and `OMERO <https://www.openmicroscopy.org/omero/scientists/>`_ import using the `OMERO Importer Python <https://github.com/WU-BIMAC/W-IDM_OmeroImporterPy>`_ and the associated `OMERO Importer Excel Helper <https://github.com/WU-BIMAC/W-IDM_OmeroImporterExcelHelperPy>`_ tool.
+This section explains how to organize your Image files on the Image Acquisition workstation or in a connected `Networked File System <https://en.wikipedia.org/wiki/Network_File_System>`_ (NFS) drive to prepare for automated metadata annotation and `OMERO <https://www.openmicroscopy.org/omero/scientists/>`_ import using the `OMERO Importer Python <https://github.com/WU-BIMAC/W-IDM_OmeroImporterPy>`_ and the associated `OMERO Importer Excel Helper <https://github.com/WU-BIMAC/W-IDM_OmeroImporterExcelHelperPy>`_ tool.
 
 Use Case 2: Presence of subdirectories in the Dataset folder
 ------------------------------------------------------------
@@ -21,3 +21,4 @@ During the execution of an experiment
 
 In preparation for Image data OMERO import
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4. On the folder you will use as the source for OMERO import, create a subfolder called ``User_Name_OMERO`` where “User_Name” is your OMERO username. 
