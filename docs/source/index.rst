@@ -4,7 +4,7 @@ Welcome to the OMERO metadata annotation and image import tool set!
 This page hosts the documentation for:
 
 1. `OMERO Importer Python <https://github.com/WU-BIMAC/W-IDM_OmeroImporterPy>`_ tool
-2. Metadata annotation Excel spreadsheets
+2. `REMBI <https://doi.org/10.1038/s41592-021-01166-8>`_-compatible metadata annotation Excel spreadsheets
 3. `OMERO Importer Excel Helper Python <https://github.com/WU-BIMAC/W-IDM_OmeroImporterExcelHelperPy>`_ tool
 
    .. image:: figures/OMERO Importer Python_Flow-Chart.png
