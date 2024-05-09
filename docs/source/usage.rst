@@ -8,7 +8,7 @@ Use Case 2: Presence of subdirectories in the Dataset folder
 During the execution of an experiment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1.	Open the  ``OMERO_import_template_wMacros_vXX.xlsm`` spreadsheet that was provided to you and fill in the ``Project_Name`` and ``Dataset_Name``fields with unique names that can be used to identify uniquely the Project and the Dataset in OMERO and elsewhere.
-2.	``Save as...`` the ``OMERO_import_template_wMacros_vXX.xlsm`` spreadsheet using your chosen “Project Name” and “Dataset Name” as follows: ``Project-Name_Dataset-Name.xlsm``.
+2.	``Save as...`` the ``OMERO_import_template_wMacros_vXX.xlsm`` spreadsheet using your chosen *“Project Name”* and *“Dataset Name”* as follows: ``Project-Name_Dataset-Name.xlsm``.
 3.	 As you execute the different steps of the procedure, fill in the ``Project-Name_Dataset-Name.xlsm`` spreadsheet you have created above with the indicated metadata values, as explained `here <https://omeroimporterpy-docs.readthedocs.io/en/latest/usage2.html>`_.
 
 .. note::
@@ -21,7 +21,7 @@ During the execution of an experiment
 
 In preparation for Image data OMERO import
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-4. On the folder you will use as the source for OMERO import, create a subfolder called ``User_Name_OMERO`` where “User_Name” is your OMERO username.
+4. On the folder you will use as the source for OMERO import, create a subfolder called ``User_Name_OMERO`` where *“User_Name”* is your OMERO username.
 
 When you are ready to import your first images to OMERO
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -33,8 +33,8 @@ When you are ready to import your first images to OMERO
 
 .. note::
 
-   * \* Use a unique name or identifier for the “Project-Name” folder and the same name used for the ``Project_Name`` field in the ``Project-Name_Dataset-Name.xlsm`` spreadsheet.
-   * ** Use a unique name or identifier for the “Dataset-Name” folder and use the same name for the ``Dataset_Name`` field in the ``Project-Name_Dataset-Name.xlsm`` spreadsheet.
+   * \* Use a unique name or identifier for the *“Project-Name”* folder and the same name used for the ``Project_Name`` field in the ``Project-Name_Dataset-Name.xlsm`` spreadsheet.
+   * ** Use a unique name or identifier for the *“Dataset-Name”* folder and use the same name for the ``Dataset_Name`` field in the ``Project-Name_Dataset-Name.xlsm`` spreadsheet.
 
 6. Move the ``Project-Name_Dataset-Name.xlsm`` spreadsheet you filled in above to the “Project-Name” folder as follows:
 
