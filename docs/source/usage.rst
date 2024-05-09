@@ -38,9 +38,11 @@ When you are ready to import your first images to OMERO
 
 6. Move the ``Project-Name_Dataset-Name.xlsm`` spreadsheet you filled in above to the “Project-Name” folder as follows:
 
+   .. rst-class:: image-no-text-wrap
+
    .. image:: figures/README_new_Project_Dataset_Spreadsheet.png
       :width: 350px
-      :align: left
+      :align: center
 
 
 7. During image acquisition, save image files in a nested subdirectory structure in the corresponding Dataset folder as follows:
