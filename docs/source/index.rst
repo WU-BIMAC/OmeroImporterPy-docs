@@ -8,8 +8,8 @@ This page hosts the documentation for:
 3. `OMERO Importer Excel Helper Python <https://github.com/WU-BIMAC/W-IDM_OmeroImporterExcelHelperPy>`_ tool
 
    .. image:: figures/OMERO Importer Python_Flow-Chart.png
-      :width: 225px
-      :align: center
+      :width: 400px
+      :align: left
 
 The **OMERO Importer Python** tool was built by Alex Rigano in the Strambio-De-Castillia laboratory UMass Chan Medical School.
 It automatically adds metadata annotations to bioimage data and imports Images and metadata to OMERO.
