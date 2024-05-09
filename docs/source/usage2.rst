@@ -3,7 +3,7 @@ Metadata annotation Excel spreadsheet
 This section explains how to fill in metadata values in customized metadata annotation Excel spreadsheets to prepare for automated metadata annotation and `OMERO <https://www.openmicroscopy.org/omero/scientists/>`_ import using the `OMERO Importer Python <https://github.com/WU-BIMAC/W-IDM_OmeroImporterPy>`_ tool.
 
 1.	Open the  ``OMERO_import_template_wMacros_vXX.xlsm`` spreadsheet that was provided to you and fill in the ``Project_Name`` and ``Dataset_Name`` fields as explained in Points 4 and 10.
-2.	``Save as…`` the ``OMERO_import_template_wMacros_vXX.xlsm`` spreadsheet using your chosen “Project Name” and “Dataset Name” as follows: ``Project-Name_Dataset-Name.xlsm``.
+2.	``Save as…`` the ``OMERO_import_template_wMacros_vXX.xlsm`` spreadsheet using your chosen *“Project Name”* and *“Dataset Name”* as follows: ``Project-Name_Dataset-Name.xlsm``.
 3.	 As you execute the different steps of the procedure, fill in the ``Project-Name_Dataset-Name.xlsm`` spreadsheet with the indicated metadata values as explained in Points 7 and 14.
 
 Project TAB
@@ -25,7 +25,7 @@ Project TAB
 Dataset TAB
 -----------
 10.	Fill in cells C10 and C11 with Dataset_Name and Dataset_Description.
-11.	If the value in C12 is set to “Study_Component”, the values in C10 and C11 will be used to fill in C14 and C15, respectively. 
+11.	If the value in C12 is set to ``Study_Component``, the values in C10 and C11 will be used to fill in C14 and C15, respectively. 
 12.	Skip C12.
 13.	Choose an Overwrite status for cell C13. 
 
