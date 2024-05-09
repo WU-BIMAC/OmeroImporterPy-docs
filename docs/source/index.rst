@@ -2,9 +2,9 @@
 Welcome to the OMERO metadata annotation and image import tool set!
 ===================================================================
 
-   .. image:: figures/OMEROImporterPython_Flow-Chart.png
-      :width: 300px
-      :align: left
+.. image:: figures/OMEROImporterPython_Flow-Chart.png
+   :width: 310px
+   :align: left
 
 This page hosts the documentation for:
 
