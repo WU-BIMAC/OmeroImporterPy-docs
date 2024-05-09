@@ -9,7 +9,7 @@ During the execution of an experiment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1.	Open the  ``OMERO_import_template_wMacros_vXX.xlsm`` spreadsheet that was provided to you and fill in the ``Project_Name`` and ``Dataset_Name``fields with unique names that can be used to identify uniquely the Project and the Dataset in OMERO and elsewhere.
 2.	``Save as...`` the ``OMERO_import_template_wMacros_vXX.xlsm`` spreadsheet using your chosen “Project Name” and “Dataset Name” as follows: ``Project-Name_Dataset-Name.xlsm``.
-3.	 As you execute the different steps of the procedure, fill in the ``Project-Name_Dataset-Name.xlsm`` spreadsheet you have created above with the indicated metadata values, as explained `here <>`_.
+3.	 As you execute the different steps of the procedure, fill in the ``Project-Name_Dataset-Name.xlsm`` spreadsheet you have created above with the indicated metadata values, as explained `here <https://omeroimporterpy-docs.readthedocs.io/en/latest/usage2.html>`_.
 
 .. note::
 
@@ -58,7 +58,7 @@ When you are ready to import your first images to OMERO
   In the example above, Images are organized according to two experimental conditions and one treatment, whereas Condition01 will be captured as Tag01, Condition02 will be captured as Tag02, and Treatment011 will be captured as Tag011.
 
 8. Open the filled-in ``Project-Name_Dataset-Name.xlsm`` spreadsheet.
-9. Follow the instructions `here <>`_, which are also found in the three workbook tabs.
+9. Follow the instructions `here <https://omeroimporterpy-docs.readthedocs.io/en/latest/usage2.html>`_, which are also found in the three workbook tabs.
 10. Save the file.
 11. The `OMERO Importer Python <https://github.com/WU-BIMAC/W-IDM_OmeroImporterPy>`_ tool will run according to the specifications set by your OMERO administrator.
 12. When the import process is terminated, you will receive an email confirming that it was correctly executed or alerting you of eventual errors.
