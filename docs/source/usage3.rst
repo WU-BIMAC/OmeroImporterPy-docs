@@ -8,7 +8,7 @@ OMERO Importer Excel Helper
 
 	``ext1, ext2, …, extN``
 
-23.	Click on the button called "Auto-fill Image Names and Tags "to explore the “Dataset-Name” folder. Then, auto-fill the names and file paths of the Image files and assign Tags to each image file depending on its position in the file system. 
+23.	Click on the button called "Auto-fill Image Names and Tags "to explore the “Dataset-Name” folder, auto-fill the names and file paths of the Image files, and assign Tags to each image file depending on its position in the file system. 
 
    .. figure:: figures/README_new_Folder_structure_Tags.png
       :width: 475px
