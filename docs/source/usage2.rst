@@ -1,6 +1,6 @@
 Metadata annotation Excel spreadsheet
 ================================================
-This section explains how to fill in metadata values in customized `REMBI <https://doi.org/10.1038/s41592-021-01166-8>`_-compliant metadata annotation Excel spreadsheets to prepare for automated metadata annotation and `OMERO <https://www.openmicroscopy.org/omero/scientists/>`_ import using the `OMERO Importer Python <https://github.com/WU-BIMAC/W-IDM_OmeroImporterPy>`_ tool.
+This section explains how to fill in metadata values in customized `REMBI <https://doi.org/10.1038/s41592-021-01166-8>`_-compliant metadata annotation Excel spreadsheets to prepare for automated metadata annotation and Image data import into `OMERO <https://www.openmicroscopy.org/omero/scientists/>`_ import using the `OMERO Importer Python <https://github.com/WU-BIMAC/W-IDM_OmeroImporterPy>`_ tool.
 
 1.	Open the  ``OMERO_import_template_wMacros_vXX.xlsm`` spreadsheet that was provided to you and fill in the ``Project_Name`` and ``Dataset_Name`` fields as explained in Points 4 and 10.
 2.	``Save as…`` the ``OMERO_import_template_wMacros_vXX.xlsm`` spreadsheet using your chosen *“Project Name”* and *“Dataset Name”* as follows: ``Project-Name_Dataset-Name.xlsm``.
